@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Monkey coder Gif" width="200">
     <h1 align="center">Hi, I’m @jakefernandez102</h1>
     <h3>I would like to introduce myself as a responsible person, passionate about developing applications and learning qnew technologies and methodologies of design and development, besides being a motivated person and eager to grow and bring new ideas every day.</h3>
-    <a href="https://www.linkedin.com/in/jake-fernandez-brizuela-73572222a/">
+    <a href="https://www.linkedin.com/in/jake-fernandez-brizuela-73572222a/" target='_blank'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" color='blue' title='LinkedIn' width="40" height="40" alt="HTML">&nbsp;
     </a>
 </div>
