@@ -17,7 +17,7 @@
 
 - 💞️I’m looking to collaborate on working in developing new and awesome things, I really like to learn and share with the experts their and my knowledge
 
-- 🙋 My Website: (https://portfoliojakefernandez.netlify.app)[Portfolio]
+- 🙋 My Website: [Portfolio](https://portfoliojakefernandez.netlify.app)
 
 - 📫 How to reach me: jake.fernandezbrizuela@outlook.com or via whatsapp +506 86729738
 
@@ -43,3 +43,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title='Postgresql' width="40" height="40" alt="HTML">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title='Docker' width="40" height="40" alt="HTML">&nbsp;
 </div>
+
+...
+
+### My Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jakefernandez102&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jakefernandez102&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakefernandez102&hide_progress=true)
+
+
