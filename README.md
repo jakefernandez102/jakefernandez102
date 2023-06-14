@@ -1,3 +1,6 @@
+![image](https://github.com/jakefernandez102/jakefernandez102/assets/124461224/31c8095e-05ec-457b-b922-e24f38afc15e)
+
+
 - 👋 Hi, I’m @jakefernandez102
 - 👀 I’m interested in Develop great web sites/ applications and learn more about new technologies
 - 🌱 I’m currently learning Angular, ReactJS.
