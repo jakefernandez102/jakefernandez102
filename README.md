@@ -7,8 +7,8 @@
     </a>
 </div>
 
+---
 
-...
 ### About Me:
 
 - 👀 I’m interested in Develop great web sites/applications and learn more about new technologies
@@ -44,7 +44,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title='Docker' width="40" height="40" alt="HTML">&nbsp;
 </div>
 
-...
+---
 
 ### My Stats:
 
