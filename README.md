@@ -19,7 +19,7 @@
 
 - 🙋 My Website: [Portfolio](https://portfoliojakefernandez.netlify.app)
 
-- 📫 How to reach me: jake.fernandezbrizuela@outlook.com or via whatsapp +506 86729738
+- 📫 How to reach me: jake.fernandezbrizuela@outlook.com or via telegram @jakesteve10210
 
 <div align="'left">
     <h3>🔧 Languages and Tools:</h3>
