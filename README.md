@@ -11,11 +11,11 @@
 
 ### About Me:
 
-- 👀 I’m interested in Develop great web sites/applications and learn more about new technologies
+- 👀 I’m interested in Developing great web sites/applications and learning more about new technologies
 
-- 🌱 I’m currently learning Angular, ReactJS.
+- 🌱 I’m currently learning about the blockchain world and how to integrate it with my frontend skills.
 
-- 💞️I’m looking to collaborate on working in developing new and awesome things, I really like to learn and share with the experts their and my knowledge
+- 💞️I’m looking to collaborate on working in developing new and awesome things, I really like to learn and share knowledge with the experts.
 
 - 🙋 My Website: [Portfolio](https://portfoliojakefernandez.netlify.app)
 
