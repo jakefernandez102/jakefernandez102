@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" alt="Monkey coder Gif" width="200">
     <h1 align="center">Hi, I’m @jakefernandez102</h1>
-    <h3>🎨 Crafting cool code and squashing bugs with a smile. Let's create something awesome together! 😄💻.</h3>
+    <h3>🎨 Crafting cool code and squashing bugs with a smile. I turn coffee into code and bugs into features. Let's create something awesome together! 😄💻.</h3>
     <a href="https://www.linkedin.com/in/jake-fernandez-brizuela-73572222a/" target="_blank">
         <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" color='blue' title='LinkedIn' width="40" height="40" alt="HTML">&nbsp;
     </a>
